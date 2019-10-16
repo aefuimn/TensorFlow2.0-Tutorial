@@ -1,9 +1,5 @@
 # !/usr/bin/python3
 # -*-coding:utf-8-*-
-# Author: Yang Chun
-# Github: https://github.com/aefuimn
-# CreatDate: 2019/7/16 15:57
-# Description:
 import os
 import tensorflow as tf
 import IPython.display as display
